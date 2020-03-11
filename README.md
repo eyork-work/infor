@@ -1,1 +1,1 @@
-# infor
+Creating a repository for an Infor Coding Test.
